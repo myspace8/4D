@@ -1,2 +1,5 @@
 node_modules
-.env
+.env.local
+
+# add common gitignore file for nextjs projects
+.next
